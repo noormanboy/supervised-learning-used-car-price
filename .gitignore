@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoint
+.ipynb_checkpoints/
+
+# Dataset (biasanya besar)
+*.csv
+*.xlsx
+*.json
+
+# Model hasil training
+*.pkl
+*.joblib
+*.h5
+*.model
+
+# OS file
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Log
+*.log
+
+# Environment variable
+.env
